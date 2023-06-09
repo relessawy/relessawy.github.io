@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RamyE TechSimplified Blog</title>
+    <link>https://relessawy.github.io/</link>
+    <description>Recent content on RamyE TechSimplified Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jun 2023 13:08:17 +1000</lastBuildDate><atom:link href="https://relessawy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Chaos to Order: How Internal Developer Platforms are Reshaping the Developer Landscape</title>
+      <link>https://relessawy.github.io/posts/from_chaos_to_order/</link>
+      <pubDate>Wed, 07 Jun 2023 13:08:17 +1000</pubDate>
+      
+      <guid>https://relessawy.github.io/posts/from_chaos_to_order/</guid>
+      <description>Introduction Welcome to Part 1 of our five-part series on revolutionizing the developer experience the Red Hat way. This series will explore the various aspects of developer experience in the cloud-native landscape, diving into Red Hat&amp;rsquo;s innovative solutions and tools that streamline and enhance the development journey.
+Here&amp;rsquo;s a quick preview of the upcoming parts in this series:
+From Chaos to Order: How Internal Developer Platforms are Reshaping the Developer Landscape (You&amp;rsquo;re currently reading this!</description>
+    </item>
+    
+  </channel>
+</rss>
